@@ -36,7 +36,7 @@ class TvShowFragment : Fragment() {
         initRecycler()
     }
 
-    fun initRecycler() {
+    private fun initRecycler() {
 
         tvshowViewModel = ViewModelProviders.of(this).get(TvShowViewModel::class.java)
         data = tvshowViewModel.getTvShowData()

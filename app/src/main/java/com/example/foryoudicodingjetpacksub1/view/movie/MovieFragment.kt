@@ -32,7 +32,7 @@ class MovieFragment : Fragment() {
         initRecycler()
     }
 
-    fun initRecycler() {
+    private fun initRecycler() {
 
         movieViewModel = ViewModelProviders.of(this).get(MovieViewModel::class.java)
         data = movieViewModel.getMoviesData()

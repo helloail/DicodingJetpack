@@ -15,8 +15,8 @@ class Tools {
             return Math.round(TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, dp.toFloat(), r?.displayMetrics))
         }
 
-        fun displayrating(rating: Float?): Float {
-            return rating!! / 2
+        fun displayrating(rating: Float): Float {
+            return rating / 2
         }
 
         fun setSystemBarColor(act: Activity, @ColorRes color: Int) {

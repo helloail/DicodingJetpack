@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
     private fun initToolbar(){
         setSupportActionBar(toolbar)
         val actionBar = supportActionBar
-        actionBar!!.title = " tererah Mau di kasih title apa"
+        actionBar?.title = " tererah Mau di kasih title apa"
         Tools.setSystemBarColor(this, R.color.grey_900)
     }
 

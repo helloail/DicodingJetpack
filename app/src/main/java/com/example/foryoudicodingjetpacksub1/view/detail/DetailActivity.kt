@@ -24,7 +24,7 @@ class DetailActivity : AppCompatActivity() {
         initComponent()
     }
 
-    fun initComponent() {
+    private fun initComponent() {
 
         detailVM = ViewModelProviders.of(this).get(DetailViewModel::class.java)
         val data = intent.getParcelableExtra<MovieInit>(SET_PARCELABLE)
@@ -45,13 +45,13 @@ class DetailActivity : AppCompatActivity() {
         }
     }
 
-    fun initToolbar() {
+    private fun initToolbar() {
         setSupportActionBar(toolbar)
         val actionBar = supportActionBar
-        actionBar!!.title = " "
+        actionBar?.title = " "
         //set back button
-        actionBar.setDisplayHomeAsUpEnabled(true)
-        actionBar.setDisplayHomeAsUpEnabled(true)
+        actionBar?.setDisplayHomeAsUpEnabled(true)
+        actionBar?.setDisplayHomeAsUpEnabled(true)
         Tools.setSystemBarColor(this, R.color.grey_900)
     }
 

@@ -33,7 +33,6 @@ class FinalTest {
         onView(withId(R.id.recyclerViewTvShow)).check(matches(isDisplayed()))
         onView(withId(R.id.recyclerViewTvShow)).perform(RecyclerViewActions.scrollToPosition<RecyclerView.ViewHolder>(datas.size))
 
-        Thread.sleep(2000)
 
     }
 
@@ -43,7 +42,6 @@ class FinalTest {
         onView(withId(R.id.recyclerViewMovie)).check(matches(isDisplayed()))
         onView(withId(R.id.recyclerViewMovie)).perform(RecyclerViewActions.scrollToPosition<RecyclerView.ViewHolder>(datas.size))
 
-        Thread.sleep(2000)
 
     }
 
@@ -67,7 +65,6 @@ class FinalTest {
         onView(withId(R.id.writer)).check(matches(isDisplayed()))
         onView(withId(R.id.discription)).check(matches(isDisplayed()))
 
-        Thread.sleep(2000)
     }
 
     @Test
@@ -92,6 +89,5 @@ class FinalTest {
         onView(withId(R.id.writer)).check(matches(isDisplayed()))
         onView(withId(R.id.discription)).check(matches(isDisplayed()))
 
-        Thread.sleep(2000)
     }
 }
