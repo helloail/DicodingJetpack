@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string-array name="durasi">
+        <item>121</item>
+        <item>90</item>
+        <item>90</item>
+        <item>100</item>
+        <item>90</item>
+
+        <item>100</item>
+        <item>96</item>
+        <item>87</item>
+        <item>98</item>
+        <item>81</item>
+
+        <item>90</item>
+        <item>88</item>
+    </string-array>
+
+
+
+    <string-array name="rilis">
+        <item>1980</item>
+        <item>1980</item>
+        <item>1982</item>
+        <item>1981</item>
+        <item>1983</item>
+
+        <item>1982</item>
+        <item>1983</item>
+        <item>1983</item>
+        <item>1986</item>
+        <item>1986</item>
+
+        <item>1986</item>
+        <item>1992</item>
+    </string-array>
+
+
+
+    <string-array name="sutradara">
+        <item>Nawi Ismail</item>
+        <item>Arizal</item>
+        <item>Isakandar Lahardi</item>
+        <item>Ali Shahab</item>
+        <item>Arizal</item>
+
+        <item>Iksan Lahardi</item>
+        <item>Arizal</item>
+        <item>Arizal</item>
+        <item>Chaerul Ummam</item>
+        <item>Tjut Djalil</item>
+
+        <item>Tjut Djalil</item>
+        <item>Arizal</item>
+    </string-array>
+
+
+
+    <string-array name="penulis">
+        <item>Nawi Ismail</item>
+        <item>Deddy Armand</item>
+        <item>Deddy Armand</item>
+        <item>Ali Shahab</item>
+        <item>Deddy Armand</item>
+
+        <item>Deddy Armand</item>
+        <item>Dedy Armand dan Raam Punjabi</item>
+        <item>Dedy Armand dan Raam Punjabi</item>
+        <item>N. Riantiarno</item>
+        <item>Naryono Prayitno</item>
+
+        <item>N. Riantiarno</item>
+        <item>Agusti Tanjung</item>
+    </string-array>
+
+    <string-array name="rating">
+        <item>4</item>
+        <item>4.5</item>
+        <item>5</item>
+        <item>4.5</item>
+        <item>4.5</item>
+
+        <item>5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4</item>
+
+        <item>4.5</item>
+        <item>4</item>
+    </string-array>
+
+
+
+    <string-array name="review">
+        <item>1513</item>
+        <item>2342</item>
+        <item>6214</item>
+        <item>2134</item>
+        <item>1512</item>
+
+        <item>5000</item>
+        <item>3373</item>
+        <item>2944</item>
+        <item>2453</item>
+        <item>2455</item>
+
+        <item>2453</item>
+        <item>2342</item>
+    </string-array>
+
+    <string-array name="titlefilm">
+        <item>Gengsi Dong</item>
+        <item>Pintar Pintar Bodoh</item>
+        <item>Setan Kredit</item>
+        <item>Manusia 6.000.000 Dollar</item>
+        <item>Dongkrak Antik</item>
+
+        <item>Chips</item>
+        <item>Maju Kena Mundur Kena</item>
+        <item>Pokoknya Beres</item>
+        <item>Sama Juga Bohong</item>
+        <item>Atas Boleh Bawah Boleh</item>
+
+        <item>Depan Bisa Belakang Bisa</item>
+        <item>Masuk Kena Keluar Kena</item>
+    </string-array>
+
+
+
+    <integer-array name="imagesampul">
+        <item>@drawable/gengsi_dong</item>
+        <item>@drawable/pintar_pintar_bodoh</item>
+        <item>@drawable/setan_kredit</item>
+        <item>@drawable/manusia_6_juta</item>
+        <item>@drawable/dongkrak_antik</item>
+
+        <item>@drawable/chips</item>
+        <item>@drawable/maju_kena_mundur_kena</item>
+        <item>@drawable/pokoknya_beres</item>
+        <item>@drawable/sama_juga_bohong</item>
+        <item>@drawable/atas_boleh_bawah_boleh</item>
+
+        <item>@drawable/depan_bisa_belakang_bisa</item>
+        <item>@drawable/masuk_kena_keluar_kena</item>
+    </integer-array>
+
+    <integer-array name="imageplay">
+        <item>@drawable/gengsi_dong_play</item>
+        <item>@drawable/pintar_pintar_bodoh_play</item>
+        <item>@drawable/setan_kredit_play</item>
+        <item>@drawable/manusia_6_juta_play</item>
+        <item>@drawable/dongkrak_antik_play</item>
+
+        <item>@drawable/chips_play</item>
+        <item>@drawable/maju_kena_mundur_kena_play</item>
+        <item>@drawable/pokoknya_beres_play</item>
+        <item>@drawable/sama_juga_bohong_play</item>
+        <item>@drawable/atas_boleh_bawah_boleh_play</item>
+
+        <item>@drawable/depan_bisa_belakang_bisa_play</item>
+        <item>@drawable/masuk_kena_keluar_kena_play</item>
+
+    </integer-array>
+
+
+    <string-array name="deskripsi">
+        <item>  Slamet, anak pedagang tembakau kaya, Paijo, anak pengusaha minyak, dan Sanwani, anak pengusaha bengkel kecil, sama-sama kuliah di sebuah universitas. Mereka juga sama-sama menaksir Rika, anak dosen. Mereka sama-sama menunjukkan gengsi tinggi untuk merebut Rika. Dari soal inilah banyolan dibangun. Dan semua sama-sama kecewa, karena Rika dipertunangkan dengan seorang taruna Akabri.
+            \n\n  Film terlaris III di Jakarta, 1980, dengan 230.555 penonton, menurut data Perfin.</item>
+
+        <item>   Film ini berkisah tentang Dono, Kasino, Indro, dan Dorman yang ingin membuka sebuah kantor detektif. Namun karena ketidaksepahaman antara mereka, persahabatan mereka pun terbelah menjadi dua kubu yaitu Kubu Kasino-Dono dan Kubu Indro-Dorman. Kedua kubu tersebut bersaing untuk menjadi detektif terbaik. Persaingan pun dimulai saat mereka mencari sekretaris cantik dan mempromosikan kehebatan mereka. Dan mereka tak tahu sekretaris mereka mengkhianati bossnya masing-masing. Sekertaris Indro berpacaran dengan sekertaris Kasino dan membeberkan rahasia perusahaan Kasino kepada Indro begitupun sebaliknya. Sampai akhirnya kedua kubu itu bangkrut karena tak ada pemasukan dan mereka tak pernah menyelesaikan satu masalahpun.
+
+\n\nKelucuan lain pun muncul saat Dono berdansa ala John Travolta seperti dalam film Saturday Night Fever ada juga Indro dan Kasino yang terjatuh karena salah naik tangga pesawat. Namun, adegan di film ini yang paling dikenang sampai saat ini adalah adegan saat Kasino dan Dono menyamar menjadi pengamen di Restoran Barbeque. Kasino mengubah lagu "Sukiyaki" menjadi lagu "Nyanyian Kode" lantaran Dono malah asyik menggoda salah satu pelanggan wanita, dan lupa mengawasi pasangan yang mereka buntuti</item>
+
+        <item>   Dono, Kasino, dan Indro mendengar berita hilangnya seorang anak melalui radio yang menawarkan hadiah untuk yang menemukan. Mereka bertiga tertarik dengan hadiah yang diberikan untuk menemukan anak yang hilang. Kemudian mereka mendatangi tempat yang dikeramatkan untuk mendapat petunjuk. Sang penunggu meminta syarat kepada mereka untuk mendatangkan orang-orang yang mau menerima kredit. Setelah berusaha untuk mendapatkan orang-orang yang mau menerima kredit, mereka menagih janji untuk mendapat petunjuk, tetapi mereka tidak dapat apa-apa hingga diketahui bahwa berita yang hilang hanya kesalahan, karena sang anak hanya bersembunyi dan dinyatakan hilang.</item>
+
+        <item>   Film ini berkisah tentang Dono, Kasino, Indro, dan Dorman Borisman yang berperan sebagai anggota kepolisian. Dono yang seorang anggota kepolisian mengalami kecelakaan yang diubah menjadi manusia robot dengan biaya $6.000.000. Sebagai anggota kepolisian mereka bertugas untuk mengusut kejahatan yang terjadi di masyarakat, seperti pornografi dan penculikan anak. Cerita kemudian berkutat pada sindikat penculikan profesional yang menculik anak dan seorang penyanyi bernama Rita Aduhai Merdubanget.</item>
+
+        <item>   Berkisah tentang Dono, Kasino, Indro dan Mat Solar. Mereka berempat adalah karyawan di sebuah hotel yang dipimpin oleh Paulus (Pietrajaya Burnama). Mereka berempat punya masalah masing-masing seperti Dono yang pelupa dan harus bersaing dengan Paulus bosnya dalam mendapatkan cinta seorang karyawati cantik Sri Anunia (Meriam Bellina), Kasino yang hobi berkata-kata kasar, Indro yang gagap serta Mat Solar yang budeg.
+            \n\n   Kelucuan-kelucuan timbul karena masalah mereka mulai dari Dono yang bolak-balik mengantar rombongan bule dan ia juga meminum obat perangsang serta membuat keributan saat belajar menari, Kasino yang berpura-pura jadi dukun di kuburan untuk menjebak Paulus, Indro dengan gagapnya yang harus dipukul bokongnya telebih dahulu agar bisa lancar bicara. Sampai Mat Solar yang membuat marah pamannya lantaran kebudekannya.</item>
+
+        <item>   Film komedi klasik ala Warkop ini terinspirasi dari kesuksesan serial TV berjudul mirip yang sangat terkenal pada era awal hingga medio 80-an, yaitu California Highway Patrols (CHiPs), dengan bintangnya Erik Estrada sebagai Ponchorello.
+
+\n\n   Kali ini trio Dono-Kasino-Indro bekerja sebagai petugas pelayanan masyarakat partikelir (Swasta), khusus di bidang keamanan dan ketertiban. Selain trio DKI, film ini juga dibintangi oleh mendiang Panji Anom, sebagai boss Chips, dan Sherly Malinton sebagai kekasih Dono. Seperti biasa, kejadian-kejadian lucu mulai berhamburan sejak awal film, seperti Kasino mengejar pengendara motor trail yang ugal-ugalan, Indro mengatasi kenakalan seorang anak yang diperankan oleh Memet Mini, hingga Dono yang terpaksa harus berbasah kuyup tercebur ke kali bersama Sherly dan mobil patrolinya gara-gara asyik pacaran.
+
+\n\n  Ungkapan khas dari film ini adalah "jangkrik boss", yang digunakan Kasino sebagai alasan saat memergoki Panji Anom sedang bermesraan dengan seorang wanita di tengah hutan. Akhir film ini cukup tragis, di mana Dono terpaksa harus mengkandaskan rencananya meminang Sherly, karena Sherly harus menuruti perjodohan dirinya dengan orang lain yang ternyata adalah Panji Anom alias bossnya sendiri. Tetapi, Dono balas dendam dengan luapan amarah yakni dengan cara membanting cerutu bossnya dan Bossnya pun marah tetapi Dono jatuh dengan gaya Salto dari atas ke bawah tetapi bossnya mencari Dono dan akhirnya trio DKI pun tertawa karena ngerjain boss mereka sendiri, sebenarnya akhir film ini berakhir dengan kelucuan pula.</item>
+        <item>  Dono dan Indro adalah teman satu kos dan anak buah Kasino di bengkel. Kasino melarang Dono dan Indro untuk tidak tertarik oleh wanita. Padahal secara diam diam, Kasino selalu merindukan seorang gadis yang fotonya ia temukan di sebuah majalah. Tanpa sengaja, ketika Dono sedang jaga malam, ia harus memperbaiki mobil Marina (Eva Arnaz).
+
+\n\n  Hal tersebut membuat Kasino marah marah, karena Marina belum membayar ongkosnya. Di luar dugaan, ternyata Marina pindah kos ke tempat Dono dan kawan kawan. Kasino terperanjat, karena ternyata Marina adalah gadis yang ia rindukan selama ini. Kasino selalu berusaha mendekati Marina, tetapi justru Dono yang mendapat untung. Karena Marina yang ditemui kakek neneknya untuk dikawinkan mengaku sudah menikah dengan Dono.</item>
+
+        <item>   Dono, Kasino, Indro, Marina (Eva Arnaz) dan Anita (Lydia Kandau) adalah teman satu kost. Pemilik kost itu adalah Us Us. Pertama-tama diceritakan Dono yang pandai masak dan melamar ke berbagai restoran tetapi ditolak. Sementara Indro dan Kasino kerjanya hanya mengejar cewek dengan segala kibulannya, dan gagal terus. Suatu ketika, Anita menghilang tanpa sepengetahuan kawan-kawannya karena ayahnya datang. Kasino pergi mencari, tetapi justru ditangkap Polwan yang dirayunya. Indro juga tertangkap polisi karena telah merusak telpon umum, saat terjebak akibat pintunya macet.</item>
+        <item>   Dono, Kasino, dan Indro adalah mahasiswa yang kos di rumah orang tua Nia (Nia Zulkarnaen) si gadis cantik. Dono dan dua kawannya berhasil membuat robot untuk dikomersilkan. Mereka juga berkenalan dengan Chintami (Chintami Atmanegara) penyanyi top. Bersama penyanyi ini mereka mengadakan pertunjukan amal untuk memperbaiki rumah Ayu (Ayu Azhari) dan yatim-piatu yang hampir ambruk.
+
+\n\n  Ketika pertunjukan hampir berlangsung, Chintami belum muncul karena ditahan manajernya yang tidak setuju dengan rencana pertunjukan itu. Dengan gaya jenaka, Dono berhasil membawa Chintami ke tempat pertunjukan. Manajer Chintami mengejar sampai ke atas pentas dan menjadikan sebuah pertunjukan sendiri.</item>
+
+        <item>  Dono, Kasino, Indro pergi berburu. Saat berburuh, Dono pingsan dan di rawat Lurah setempat. Dono jatuh hati pada putri pak Lurah. Setelah tahu watak gadis itu, Dono menghindar lari dan terjadi kecelakaan lagi. Dono dirawat di rumah sakit dan di sini Dono jatuh hati pada perawatnya, Susy (Eva Arnaz). Diam-diam Indro tanpa tahu juga jatuh hati pada Susy. Persaingan terjadi, tetapi tak ada yang berhasil meraih Susy.</item>
+
+        <item>   Dono, Kasino, dan Indro bertindak sebagai detektif dalam sebuah biro penyelidik Depan Bisa Belakang Bisa. Kasino yang bergaya seperti Sherlock Holmes, berperan sebagai atasan Dono dan Indro. Suatu ketika mereka mendapatkan order untuk mengamankan pameran permata yang dilakukan investor asal Jepang, Satomata. Namun dilain pihak, muncul tawaran dari Perusahaan Asuransi untuk mengawasi permata, karena Pihak Asuransi menilai Satomata melakukan kecurangan. Dono bekerja di Pihak Satomata, sementara Indro bekerja di pihak asuransi. Indro akhirnya keluar dari biro,namun bergabung kembali setelah Kasino sepakat untuk masalah keterbukaan honor.
+
+\n\n  Dono bersama wanita Jepang, Michiko (Eva Arnaz) melarikan Permata, karena ternyata Satomata melakukan kecurangan untuk mengelabui Asuransi. Satomata dan Asuransi akhirnya berebut permata yang justru hancur dilindas Satomata. Ternyata permata yang asli sudah diamankan Michiko yang ternyata adalah Gadis asal Bukit Tinggi bernama Siti Hadijah.</item>
+        <item>  Dono, Kasino, dan Indro nyasar ke pulau tak dikenal yang seluruh penduduknya terdiri dari wanita cantik, kecuali seorang pria Kepala Suku dan tiga putrinya yang gembrot-gembrot. Dono Cs terpaksa melarikan diri dari pulau sorga itu karena hendak dikawinkan dengan tiga putri Kepala Suku. Kembali ke rumah, Dono bertemu Merry. Seperti biasa, Dono, Kasino, Indro bersama Merry, Wenny, dan Nia bermain di pantai dengan para wanita berbikini. Hubungan tiga pasang kekasih itu selalu bikin heboh. Muncul antara lain seseorang berbusana Arab diiringi bodyguard-nya yang menyatakan bahwa Merry sudah dijodohkan dengannya. Sang bodyguard bisa dipecundangi Kasino, hingga masuk rumah sakit. Banyolan beralih ke rumah sakit, dan berakhir di rumah.</item>
+
+    </string-array>
+
+
+
+</resources>
